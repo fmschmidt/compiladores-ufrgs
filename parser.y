@@ -1,5 +1,7 @@
 /*
-  Coloque aqui o identificador do grupo e dos seus membros
+  Grupo01
+  Felipe de Medeiros Schmidt
+  William Bombardelli da Silva
 */
 %{
 #include <stdio.h>
